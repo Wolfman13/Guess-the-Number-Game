@@ -1,0 +1,9 @@
+[package]
+name = "Guess_Game"
+version = "0.1.0"
+authors = ["wolfman13"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6"
+text_io = "0.1.7"
