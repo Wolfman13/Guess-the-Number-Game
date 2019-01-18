@@ -1,9 +1,10 @@
 [package]
-name = "Guess_Game"
+name = "guess_game"
 version = "0.1.0"
 authors = ["wolfman13"]
 edition = "2018"
 
 [dependencies]
-rand = "0.6"
+termion = "1.5.1"
+rand = "0.6.4"
 text_io = "0.1.7"
